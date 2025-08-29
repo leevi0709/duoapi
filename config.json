@@ -25,7 +25,7 @@
       "type": 0,
       "url": "https://sub.ottiptv.cc/iptv.m3u",
       "epg": "http://epg.51zmt.top:8000/e.xml",
-      "ua": "okHttp/Mod-1.0.1",
+      "ua": "okHttp/Mod-1.2.0",
       "timeout": 10,
       "playerType": 2
     },
