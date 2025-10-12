@@ -683,6 +683,17 @@
       }
     },
     {
+      "key": "啊哈DJ",
+      "name": "🎹┃啊哈┃音乐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://ncstatic.clewm.net/rsrc/2025/0716/15/3583b9ecff3bc6a1db4004faf891f7de.png;md5;423e33ec108c0f7816200cebaf18fb69",
+      "ext": "./json/aha.json"
+    }, 	
+    {
       "key": "聚合直播",
       "name": "🎥┃聚合┃直播",
       "type": 3,
