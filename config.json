@@ -5,14 +5,6 @@
   "warningText": "接口完全免费，切勿贩卖购买",
   "lives": [
     {
-      "name": "Best",
-      "type": 0,
-      "url": "http://be.is-best.net/i/8/5611948.txt",
-      "epg": "http://epg.51zmt.top:8000/e.xml",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "timeout": 10
-    },
-    {
       "name": "Guovin",
       "type": 0,
       "url": "https://hub.gitmirror.com/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
@@ -28,13 +20,6 @@
       "ua": "okHttp/Mod-1.2.0",
       "timeout": 10,
       "playerType": 2
-    },
-    {
-      "name": "港澳台",
-      "type": 0,
-      "url": "http://txt.kesug.com/users/hulanlu.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "sd-live",
@@ -93,11 +78,12 @@
       "key": "天天",
       "name": "🧿┃天天┃秒播",
       "type": 3,
-      "api": "csp_TianTian",
+      "api": "csp_TTian",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://tt.ysdqjs.cn"
+      "jar":https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",    
+      "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
     {
       "key": "柠檬",
@@ -157,19 +143,6 @@
       }
     },
     {
-      "key": "星芽",
-      "name": "🌟┃星芽┃短剧",
-      "type": 3,
-      "api": "csp_Xydj",
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
       "key": "追剧",
       "name": "☕️┃追剧┃秒播",
       "type": 3,
@@ -209,11 +182,11 @@
     {
       "key": "荐片",
       "name": "⏳┃荐片┃磁力",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "playerType": 1,
+      "type": 4,
+      "api": "http://zhangqun1818.serv00.net/jianpian.php",
       "searchable": 1,
-      "quickSearch": 0
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "农民",
@@ -243,19 +216,27 @@
       "filterable": 1
     },
     {
-      "key": "若惜app",
-      "name": "💦┃若惜┃影视",
+      "key": "✨一起看✨",
+      "name": "✨┃一起┃短剧",
       "type": 3,
-      "api": "csp_Getapp",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "host": "http://110.40.59.188:9527",
-        "datakey": "ebad3f1a58b13933",
-        "dataiv": "ebad3f1a58b13933"
-      }
-    },
+      "jar": "https://ncstatic.clewm.net/rsrc/2025/0716/15/3583b9ecff3bc6a1db4004faf891f7de.png;md5;423e33ec108c0f7816200cebaf18fb69",
+      "ext": "./json/17kan.json"
+    }, 
+    {
+      "key": "✨安迪✨",
+      "name": "✨┃安迪┃短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://ncstatic.clewm.net/rsrc/2025/0716/15/3583b9ecff3bc6a1db4004faf891f7de.png;md5;423e33ec108c0f7816200cebaf18fb69",
+      "ext": "./json/andi.json"
+    }, 
     {
       "key": "鲸鱼app",
       "name": "🐳┃鲸鱼┃影视",
@@ -269,21 +250,6 @@
         "api": "/api.php/qijiappapi",
         "datakey": "AAdgrdghjfgswerA",
         "dataiv": "AAdgrdghjfgswerA"
-      }
-    },
-    {
-      "key": "坚果app",
-      "name": "🌰┃坚果┃影视",
-      "type": 3,
-      "api": "csp_Getapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://t.bffree.cn/1.txt",
-        "datakey": "2015692015692015",
-        "dataiv": "2015692015692015",
-        "version": "300"
       }
     },
     {
@@ -303,15 +269,6 @@
       "playerType": 2,
       "jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg0939790i413gi486k509jgi3ggk6j244j6j36j76041707h0lk124l0l0h867j83h576h3j66h4lk89lh5lh1jl3l170647kj09lklji74j56lg673li1h16"
-    },
-    {
-      "key": "竹子",
-      "name": "🎍┃竹子┃影视",
-      "type": 3,
-      "api": "csp_Qiji",
-      "playerType": 2,
-      "jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
-      "ext": "7lj763gg402i7942423k8hi1h1498h87k1hi9h0l9ljj69771i4k08k0h4145543139753h0825g9i91751ih18gklk916k4k32k7751k9lj9gh2329j29kl7ih94i52lhk2i5h7k563732gii1669038kk45i6760h0kl6932l5jgljj7j87jl43k03423j31"
     },
     {
       "key": "柚子",
@@ -442,16 +399,6 @@
       "filterable": 0,
       "jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942463j9j9jhi558k84lhg7845kili62l35535512l0h61j48410h9g5igk9j40908h351hh484h8l60h"
-    },
-    {
-      "key": "木耳",
-      "name": "🪵┃木耳┃资源",
-      "type": 3,
-      "api": "csp_Hmer",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "timeout": 30
     },
     {
       "key": "低端影视",
@@ -678,15 +625,6 @@
       "api": "csp_Ysj",
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key": "红果",
-      "name": "🍎┃红果┃短剧",
-      "type": 3,
-      "api": "csp_HongGuo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
     },
     {
       "key": "南风短剧",
