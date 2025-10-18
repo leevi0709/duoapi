@@ -1,5 +1,5 @@
 {
-  "spider": "https://ncstatic.clewm.net/rsrc/2025/0821/23/753d376ab89b34e2bf78761f5fe0289a.png;md5;526453EBC8F8F6C30FB2AEC9252DCED0",
+  "spider": "https://ncstatic.clewm.net/rsrc/2025/1018/20/1e6fcfbb0b074b3ea5bb216a234162e6.png;md5;946F8772261DF60FE5F4DC30965A3BB7",
   "wallpaper": "https://yydsys.top/bg.php",
   "logo": "https://origin.picgo.net/2025/10/12/new166e26b264dff8e9.gif",
   "warningText": "接口完全免费，切勿贩卖购买",
@@ -182,11 +182,11 @@
     {
       "key": "荐片",
       "name": "⏳┃荐片┃磁力",
-      "type": 4,
-      "api": "http://zhangqun1818.serv00.net/jianpian.php",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "playerType": 1,
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "quickSearch": 0
     },
     {
       "key": "农民",
@@ -215,6 +215,19 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+      "key": "星芽短剧",
+      "name": "🌟┃星芽┃短剧",
+      "type": 3,
+      "api": "csp_Xydj",
+      "style": {
+      "type": "rect",
+      "ratio": 1.433
+            },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },	
     {
       "key": "✨一起看✨",
       "name": "✨┃一起┃短剧",
