@@ -314,6 +314,15 @@
       "jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E"
     },
     {
+	  "key": "播剧网.py",
+	  "name": "🎬️┃播剧┃影视",
+	  "type": 3,
+	  "api": "./py/播剧网.py",
+	  "searchable": 1,
+	  "quickSearch": 1,
+	  "filterable": 1
+	},	
+    {
       "key": "哔哩集合",
       "name": "🅱️┃哔哩┃集合",
       "type": 3,
@@ -455,18 +464,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "文才影视",
-      "name": "🖌︎┃文才┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://ncstatic.clewm.net/rsrc/2025/0716/15/3583b9ecff3bc6a1db4004faf891f7de.png;md5;423e33ec108c0f7816200cebaf18fb69",
-      "ext": "./json/wcys.json"
     },
     {
       "key": "夸克盘社",
