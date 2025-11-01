@@ -27,7 +27,7 @@ class Spider(Spider):
             self.device_id = extendDict.get('device_id', str(uuid4()))
             self.client = extendDict.get('client', 'Hills Windows')
             self.device_name = extendDict.get('device_name', 'My Computer')
-            self.client_version = extendDict.get('client_version', '0.2.2')
+            self.client_version = extendDict.get('client_version', '0.3.2')
         except:
             self.baseUrl = ''
             self.username = ''
@@ -37,7 +37,7 @@ class Spider(Spider):
             self.device_id = str(uuid4())
             self.client = 'Hills Windows'
             self.device_name = 'My Computer'
-            self.client_version = '0.2.2'
+            self.client_version = '0.3.2'
         
         # 初始化header
         self.header = {
