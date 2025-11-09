@@ -231,17 +231,6 @@
 			}
 	},		
     {
-      "key": "4KMP✨",
-      "name": "🎬┃流畅┃4K",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://ncstatic.clewm.net/rsrc/2025/0716/15/3583b9ecff3bc6a1db4004faf891f7de.png;md5;423e33ec108c0f7816200cebaf18fb69",
-      "ext": "./XBPQ/4kmp.json"
-    }, 	
-    {
       "key": "农民",
       "name": "👶┃旺旺┃影视",
       "type": 3,
