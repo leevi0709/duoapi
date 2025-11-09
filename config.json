@@ -190,7 +190,7 @@
     },
 	{
 	  "key": "hohaiemby",
-	  "name": "🗄┃EMBY┃系统",
+	  "name": "🗄┃EMBY┃好嗨",
 	  "type": 3,
 	  "api": "./py/emby.py",
 	  "searchable": 1,
@@ -209,6 +209,27 @@
 			"device_id": "a9f74849-83d5-4a28-8b85-a087af1402e3"
 			}
 	},	
+	{
+	  "key": "NYa-emby",
+	  "name": "🗄┃EMBY┃NYa",
+	  "type": 3,
+	  "api": "./py/emby.py",
+	  "searchable": 1,
+	  "quickSearch": 1,
+	  "filterable": 1,
+	  "changeable": 1,
+	  "ext": {
+			"server": "https://emby.bangumi.ca:443",
+			"username": "tangsan",
+		    "password": "tangsan",
+		    "proxy": "",
+			"thread": 0,
+		    "device_name": "My Computer",
+			"client": "Hills Windows",
+		    "client_version": "0.3.2",
+			"device_id": "a9f74849-83d5-4a28-8b85-a087af1402e3"
+			}
+	},		
     {
       "key": "4KMP✨",
       "name": "🎬┃流畅┃4K",
@@ -455,19 +476,6 @@
       "ext": "7lj763gg402i7942463j9j9jhi558k84lhg7845kili62l35535512l0h61j48410h9g5igk9j40908h351hh484h8l60h"
     },
     {
-      "key": "低端影视",
-      "name": "🦄┃低端┃影视",
-      "type": 3,
-      "api": "csp_Ddys",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "site": "https://ddys.pro"
-      }
-    },
-    {
       "key": "厂长",
       "name": "🏭┃厂长┃影视",
       "type": 3,
@@ -490,15 +498,6 @@
       "name": "🍫┃电影┃云集",
       "type": 3,
       "api": "csp_Dyyj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "湾湾频道",
-      "name": "🌀┃湾湾┃频道",
-      "type": 3,
-      "api": "csp_Ptt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
