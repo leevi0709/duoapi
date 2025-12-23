@@ -240,13 +240,15 @@
       "filterable": 1
     },
     {
-      "key": "瓜子影视",
+      "key": "瓜子影院",
       "name": "🌻┃瓜子┃影视",
       "type": 3,
-      "api": "csp_Guazi",
+      "api": "./js/drpy2.min.js",
       "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 1
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "./js/瓜子.js"
     },
     {
       "key": "金牌影院",
