@@ -259,6 +259,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {    "key": "动态py",
+            "name": "😄┃永乐┃视频",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net:5052/?sp=永乐视频",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+    },	
     {
       "key": "星芽短剧",
       "name": "🌟┃星芽┃短剧",
