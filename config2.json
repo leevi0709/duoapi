@@ -5,38 +5,19 @@
   "warningText": "接口完全免费，切勿贩卖购买",
   "lives": [
     {
-      "name": "Guovin",
+      "name": "HKTV",
       "type": 0,
-      "url": "https://hub.gitmirror.com/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
-      "epg": "http://epg.51zmt.top:8000/e.xml",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "timeout": 10
-    },
-    {
-      "name": "Mursor",
-      "type": 0,
-      "url": "https://sub.ottiptv.cc/iptv.m3u",
-      "epg": "http://epg.51zmt.top:8000/e.xml",
-      "ua": "okHttp/Mod-1.2.0",
-      "timeout": 10,
-      "playerType": 2
-    },
-    {
-      "name": "sd-live",
-      "type": 0,
-      "url": "https://gitee.com/sd-live/zb/raw/master/mySJ",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "url": "http://txt.gt.tc/users/HKTV.txt"
     },
     {
       "name": "裤佬直播",
       "type": 0,
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
+      "url": "https://fastgit.cc/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
       "playerType": 2,
       "timeout": 10
     },
     {
-      "name": "范明明",
+      "name": "范明明(IPV6)",
       "type": 0,
       "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
       "playerType": 2,
@@ -45,9 +26,21 @@
     {
       "name": "ZBDS",
       "type": 0,
-      "url": "https://live.zbds.org/tv/iptv4.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.iill.top/logo/{name}.png",
+      "url": "https://live.zbds.top/tv/iptv4.txt",
+      "timeout": 10,
+      "playerType": 2
+    },	
+    {
+      "name": "国内IPTV",
+      "type": 0,
+      "url": "https://iptv.catvod.com/tv.m3u",
+      "timeout": 10,
+      "playerType": 2
+    },	
+    {
+      "name": "港台频道",
+      "type": 0,
+      "url": "https://live.catvod.com/tv.m3u",
       "timeout": 10,
       "playerType": 2
     }
