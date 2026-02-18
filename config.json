@@ -5,9 +5,9 @@
   "warningText": "接口完全免费，切勿贩卖购买",
   "lives": [
     {
-      "name": "国内IPTV",
+      "name": "Lonely",
       "type": 0,
-      "url": "https://iptv.catvod.com/tv.m3u",
+      "url": "https://xoxo.cn.mt/Lonely.m3u",
       "timeout": 10,
       "playerType": 2
     },	  
@@ -38,9 +38,9 @@
       "timeout": 10
     },
     {
-      "name": "港台频道",
+      "name": "简单TV",
       "type": 0,
-      "url": "https://live.catvod.com/tv.m3u",
+      "url": "http://iptv.ruyitv.cc/m3u/tv.txt",
       "timeout": 10,
       "playerType": 2
     }
