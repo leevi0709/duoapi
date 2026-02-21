@@ -658,15 +658,16 @@
       "filterable": 1,
       "ext": "./lib/jzyy.js"
     },
-    {
+	{
       "key": "樱花动漫",
       "name": "🌺┃樱花┃动漫",
-      "type": 3,
-      "api": "csp_Yhdm",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+	  "type": 3,
+	  "api": "./py/樱花动漫.py",
+	  "searchable": 1,
+	  "quickSearch": 1,
+	  "filterable": 1,
+	  "changeable": 1
+	},	
     {
       "key": "奇米动漫",
       "name": "🍿┃奇米┃动漫",
