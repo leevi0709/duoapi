@@ -536,14 +536,6 @@
       "changeable": 1
     },
     {
-      "key":"无水印",
-      "name": "🐝|采集|资源",
-      "api": "https://api.wsyzy.net/api.php/provide/vod",
-      "detail": "",
-      "bz": "1",
-      "paichu": "1,2,3,4"
-    },
-    {
       "key": "360资源",
       "name": "⏱┃三六┃资源",
       "type": 1,
