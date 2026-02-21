@@ -536,6 +536,7 @@
       "changeable": 1
     },
     {
+      "key":"无水印",
       "name": "🐝|采集|资源",
       "api": "https://api.wsyzy.net/api.php/provide/vod",
       "detail": "",
