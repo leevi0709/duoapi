@@ -5,6 +5,13 @@
   "warningText": "接口完全免费，切勿贩卖购买",
   "lives": [
     {
+      "name": "Cinetry",
+      "type": 0,
+      "url": "https://iptv.gstory.cn/Cinetry",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
       "name": "Lonely",
       "type": 0,
       "url": "https://xoxo.cn.mt/Lonely.m3u",
