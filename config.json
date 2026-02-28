@@ -21,7 +21,7 @@
 	{
       "name": "iptv(简)",
       "type": 0,
-      "url": "https://im5k.fun/iptv.m3u",
+      "url": "https://im5k.fun/vip.m3u",
       "timeout": 10,
       "playerType": 2
     },
