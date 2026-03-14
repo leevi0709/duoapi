@@ -215,48 +215,6 @@
       "searchable": 1,
       "quickSearch": 0
     },
-	{
-	  "key": "hohaiemby",
-	  "name": "🗄┃EMBY┃好嗨",
-	  "type": 3,
-	  "api": "./py/emby.py",
-	  "searchable": 1,
-	  "quickSearch": 1,
-	  "filterable": 1,
-	  "changeable": 1,
-	  "ext": {
-			"server": "https://emby.hohai.eu.org:443",
-			"username": "chuxin666",
-		    "password": "ycc123456",
-		    "proxy": "",
-			"thread": 0,
-		    "device_name": "My Computer",
-			"client": "Hills Windows",
-		    "client_version": "0.3.2",
-			"device_id": "a9f74849-83d5-4a28-8b85-a087af1402e3"
-			}
-	},	
-	{
-	  "key": "NYa-emby",
-	  "name": "🗄┃EMBY┃NYa",
-	  "type": 3,
-	  "api": "./py/emby.py",
-	  "searchable": 1,
-	  "quickSearch": 1,
-	  "filterable": 1,
-	  "changeable": 1,
-	  "ext": {
-			"server": "https://emby.bangumi.ca:443",
-			"username": "tangsan",
-		    "password": "tangsan",
-		    "proxy": "",
-			"thread": 0,
-		    "device_name": "My Computer",
-			"client": "Hills Windows",
-		    "client_version": "0.3.2",
-			"device_id": "a9f74849-83d5-4a28-8b85-a087af1402e3"
-			}
-	},		
     {
       "key": "农民",
       "name": "👶┃旺旺┃影视",
