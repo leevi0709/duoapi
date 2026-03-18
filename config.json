@@ -25,6 +25,20 @@
       "timeout": 10,
       "playerType": 2
     },
+    {
+      "name": "migu720",
+      "type": 0,
+      "url": "https://fastgit.cc/https://raw.githubusercontent.com/iTCoffe/Collect-iTV/main/MiGu.m3u",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "iTV",
+      "type": 0,
+      "url": "https://fastgit.cc/https://raw.githubusercontent.com/iTCoffe/Collect-iTV/main/Internet_iTV.m3u",
+      "playerType": 2,
+      "timeout": 10
+    },	
      {
       "name": "ZBDS",
       "type": 0,
@@ -688,15 +702,13 @@
       "key": "88js",
       "name": "⚽ ┃八八┃看球",
       "type": 3,
-      "api": "csp_Kanqiu",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+      "api": "csp_Sir88Guard",
+      "timeout":10,
+	  "searchable":0,
+	  "changeable":0,
+	  "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/91b25da2d5952845f799d4dda97ae065.jpg;md5;8d0b8c2ca484bba9be3714e13615f212",
+	  "style":{"type":"list"}
+	  },	
     {
       "key": "FirstAid",
       "name": "🚑 ┃急救┃知识 ",
